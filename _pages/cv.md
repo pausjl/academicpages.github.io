@@ -17,4 +17,3 @@ _Download pdf version here: <a href="/files/paper1.pdf" target="_blank">English 
 ## Education
 ------
 
-* **Master's degree in Geographic Information Technologies, 2019**<br/>
